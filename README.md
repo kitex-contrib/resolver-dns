@@ -1,7 +1,6 @@
 # Kitex DNS Resolver
 
-For some application runtime, maybe we need use DNS as service discovery.
-Here is a simple DNS resolver inspired by gRPC and Kubernetes.
+Some application runtime use DNS as service discovery, e.g. Kubernetes.
 
 ## How to use with Kitex client?
 
@@ -24,5 +23,3 @@ func main() {
 ```
 
 Use Kitex `client.WithResolver` function optional, we can set DNS resolver with our client.
-
-That's all, easy to use.
