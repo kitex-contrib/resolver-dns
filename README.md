@@ -7,7 +7,7 @@ Some application runtime use DNS as service discovery, e.g. Kubernetes.
 ```go
 import (
     ...
-    dns "github.com/kitex-contrib/dns-resolver"
+    dns "github.com/kitex-contrib/resolver-dns"
     "github.com/cloudwego/kitex/client"
     ...
 )

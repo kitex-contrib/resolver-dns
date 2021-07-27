@@ -1,4 +1,4 @@
-module github.com/kitex-contrib/dns-resolver
+module github.com/kitex-contrib/resolver-dns
 
 go 1.15
 
