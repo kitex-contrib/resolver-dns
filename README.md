@@ -1,6 +1,6 @@
-# Kitex DNS Resolver
+ Kitex DNS Resolver
 
-Some application runtime use DNS as service discovery, e.g. Kubernetes.
+Some applications runtime use DNS as service discovery, e.g. Kubernetes.
 
 ## How to use with Kitex client?
 
