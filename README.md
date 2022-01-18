@@ -1,4 +1,4 @@
-# Kitex DNS Resolver
+# Kitex DNS Resolver.
 
 Some applications runtime use DNS as service discovery, e.g. Kubernetes.
 
